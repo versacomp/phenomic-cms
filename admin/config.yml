@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: capriosa/phenomic-cms
+  repo: versacomp/phenomic-cms
   branch: master
 
 public_folder: "/assets"
